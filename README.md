@@ -1,11 +1,20 @@
 # lead-tracker-chrome-ext
 
+
+
+
+
+![lead tracker](https://user-images.githubusercontent.com/68748054/141847991-d48e172e-a0a4-43eb-b937-32fef04d17ed.png)
+
+
+
+
 This is a lead tracker Chrome extension.
 
 It allows the user to create a list of leads to save and access later.
 
-Manually: The user can type the url into the text field and click SAVE INPUT.
+SAVE INPUT saves the url that the user types into the text field.
 
-Automatically: The user can click SAVE TAB, and the app will grab the url of the active open browser tab.
+SAVE TAB automatically saves the url of the active open browser tab.
 
-To delete all the stored leads the user can click the DELETE ALL button.
+DELETE ALL deletes all the stored leads.
